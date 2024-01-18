@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dog Identifier</string>
+    <string name="game_title">What type of pup is this?</string>
+    <string name="next_button_title">Next Dog</string>
+</resources>
